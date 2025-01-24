@@ -98,7 +98,7 @@ This repository is my **personal learning space**, but feel free to fork it and 
 ## 📬 Connect with Me  
 
 📧 **Email**: satyajitpatra4002@gmail.com  
-💼 **LinkedIn**:(https://www.linkedin.com/in/satyajit-patra-b0801a242/)  
+💼 **LinkedIn**: [Satyajit Patra](https://www.linkedin.com/in/satyajit-patra-b0801a242/)  
 
 🚀 Happy Coding! Keep Hustling! 💡🔥  
 
